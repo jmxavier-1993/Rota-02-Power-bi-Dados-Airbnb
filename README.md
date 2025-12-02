@@ -65,7 +65,7 @@ As análises foram sustentadas por medidas calculadas em DAX para garantir dinam
 O painel foi estruturado para responder a perguntas de negócio sobre oportunidades e eficiência em Nova York.
 
 ### Visão Geral do Painel
-![Airbnb Power BI Dashboard](dashboard.png)
+![Airbnb Power BI Dashboard](dash_pag1.png)
 
 ### Visualizações Chave
 1.  **Mapa Geográfico:** Plotagem de Receita Potencial Máxima por latitude/longitude, identificando "zonas de calor" financeiro.
