@@ -60,17 +60,19 @@ As análises foram sustentadas por medidas calculadas em DAX para garantir dinam
 ***Receita Potencial Máxima:** Estimativa baseada na capacidade total de dias e preço.
 
 ---
-
 ## 📊 Dashboard e Insights
 
-O painel foi estruturado para responder a perguntas de negócio sobre oportunidades e eficiência.
+O painel foi estruturado para responder a perguntas de negócio sobre oportunidades e eficiência em Nova York.
+
+### Visão Geral do Painel
+![Airbnb Power BI Dashboard](dashboard.png)
 
 ### Visualizações Chave
-1.**Mapa Geográfico:** Plotagem de Receita Potencial Máxima por latitude/longitude, identificando "zonas de calor" financeiro.
-2.**Histograma de Preços:** Distribuição do volume de imóveis por faixas de preço.
-3.**Análise Temporal:** Evolução da Taxa de Ocupação Média ao longo dos anos por grupo de bairro .
+1.  **Mapa Geográfico:** Plotagem de Receita Potencial Máxima por latitude/longitude, identificando "zonas de calor" financeiro.
+2.  **Histograma de Preços:** Distribuição do volume de imóveis por faixas de preço.
+3.  **Análise Temporal:** Evolução da Taxa de Ocupação Média ao longo dos anos por grupo de bairro.
 
-### Principais Descobertas 
+### Principais Descobertas
 * **Manhattan:** Possui o maior **Potencial de Receita** e a maior volatilidade (desvio padrão) de preços, indicando um mercado misto de luxo e oportunidades.
 * **Brooklyn:** Apresenta a **Taxa de Ocupação** mais alta e consistente, sugerindo uma demanda estável.
 * **Inventário:** A maior parte dos imóveis listados pertence à categoria "Entire home/apt".
